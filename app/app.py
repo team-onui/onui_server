@@ -13,6 +13,4 @@ def get_application():
     return FastAPI()
 
 
-@app.get('/', status_code=200)
-def show_all_cloud_word():
-    return {'message': 'HelloWorld'}
+app = get_application()
