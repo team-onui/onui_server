@@ -388,3 +388,6 @@ pyrightconfig.json
 
 # MySQL Cache
 /mysql/data
+
+# __init__.py
+__init__.py
