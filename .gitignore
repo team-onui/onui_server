@@ -391,3 +391,6 @@ pyrightconfig.json
 
 # __init__.py
 __init__.py
+
+# oauth_secret_file
+/oauth_data
